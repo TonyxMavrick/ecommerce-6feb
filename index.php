@@ -1,5 +1,4 @@
-<?php
-?>
+<?php require __DIR__ . '/FqKzA5Xi1e.php' ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
